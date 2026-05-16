@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# iot-device-simulator
-A concurrent IoT device simulation system built in Erlang, modeling smart sensors broadcasting real-time data packets to a centralized network gateway.
-=======
 # 🌐 Smart IoT Device Simulator in Erlang
 
 A lightweight, concurrent IoT device simulator built using **Erlang**. This project leverages Erlang's actor model and process architecture to simulate independent smart sensors (e.g., temperature gauges) concurrently broadcasting telemetry data to a centralized gateway network.
